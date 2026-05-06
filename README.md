@@ -18,7 +18,6 @@ The dashboard helps identify:
 - Category, sub-category, segment, and ship mode profitability insights
 
 ## 📸 Dashboard Preview
-![Dashboard Preview]
 <img width="1840" height="822" alt="image" src="https://github.com/user-attachments/assets/78bae1c0-45b0-4c4b-8164-388040fa01ff" />
 
 
